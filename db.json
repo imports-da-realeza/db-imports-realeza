@@ -190,7 +190,8 @@
       "nome": "Billion FOR MEN",
       "descriçao": "O Perfume Billion da Paris Elysees é refrescante e sensual, com contrastes de notas picantes como a menta e condimentadas como a canela. O Perfume Billion é perfeito para os homens modernos, atrevidos e determinados, que não passam despercebidos. Uma fragrância inusitada, marcante e sensual para todos os momentos.",
       "marca": "PAROS ELYSEES",
-      "valor": 120.00
+      "valor": 120.00,
+      "image": "https://raw.githubusercontent.com/imports-da-realeza/db-imports-realeza/main/images/Billion-Paris-Elysees-100ml-e1693249505495.jpg?token=GHSAT0AAAAAACHKUMZXYHC5ZMIBURXZ2A5IZIJYPXQ"
    },
    {
       "nome": "Billion NIGTH FOR MEN",
@@ -202,13 +203,15 @@
       "nome": "Billion CASSINO ROYAL FOR MEN",
       "descriçao": "é uma masculina que celebra o mundo luxuoso dos cassinos. É significado ao homem contemporâneo, autêntico, simples e seguro de suas escolhas. Essa fragrância oferece uma nova interpretação da masculinidade, apresentando uma visão única de elegância. É um perfume clássico que reinventa o homem moderno.",
       "marca": "PAROS ELYSEES",
-      "valor": 120.00
+      "valor": 120.00,
+      "image": "https://raw.githubusercontent.com/imports-da-realeza/db-imports-realeza/main/images/Billion-Casino-Royal-Paris-Elysees-100ml-e1693253994390.jpg?token=GHSAT0AAAAAACHKUMZWEQGONXOUQGGPZG7WZIJYQIA"
    },
    {
       "nome": "BLACK CAVIAR",
       "descriçao": "Amadeirado  GENERO : Masculino  O Black Caviar Paris Elysees proporciona um toque marcante, para o homem urbano, dinâmico e bem-sucedido, poderoso e, acima de tudo, bem resolvido.Esse é o perfil do homem que vai ficar fascinado pelo perfume masculino Black Caviar da Paris Elysees.",
       "marca": "PAROS ELYSEES",
-      "valor": 120.00
+      "valor": 120.00,
+      "image": "https://raw.githubusercontent.com/imports-da-realeza/db-imports-realeza/main/images/Black-Caviar-Paris-Elysees-100ml-e1693251357768.jpg?token=GHSAT0AAAAAACHKUMZWRYMDNQ2JBYSZWVTOZIJYQVA"
    },
    {
       "nome": "VODKA WILD FOR MEN",
@@ -232,7 +235,8 @@
       "nome": "VODKA MAN ",
       "descriçao": "Perfume Masculino Oriental Amadeirado. Vodka Man é naturalmente elegante, traz uma nova interpretação sobre frescor. O Perfume Vodka Man traz à tona a sensualidade e poder dos homens cosmopolitas e determinados. Vodka Man de Paris Elysees surpreende os sentidos ao mesclar acordes de especiarias com madeiras, frutas e ervas. Uma combinação única e inusitada, para você se destacar na multidão",
       "marca": "PAROS ELYSEES",
-      "valor": 120.00
+      "valor": 120.00,
+      "image": "https://raw.githubusercontent.com/imports-da-realeza/db-imports-realeza/main/images/Vodka-Brazil-Amarelo-Paris-Elysees-100ml-Yellow-e1693250854515.jpg?token=GHSAT0AAAAAACHKUMZXPKI5S7Q4ROA76D3YZIJYRRQ"
    },
    {
       "nome": "I LOVE P.E. ",
